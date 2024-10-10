@@ -1,0 +1,3 @@
+[submodule "detrap-toolchain"]
+	path = toolchain
+	url = https://github.com/URSec/detrap-toolchain.git
